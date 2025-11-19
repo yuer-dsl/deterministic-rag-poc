@@ -44,4 +44,21 @@ or plug this into larger pipelines.
 ## How to run
 
 ```bash
+
 python deterministic_rag_poc.py
+
+You should see:
+
+deterministic community summaries
+
+deterministic routing
+
+deterministic top-k matches for a sample query
+
+Disclaimer
+
+This repository is an educational PoC, not a product.
+
+It is not an implementation of any private “OS”, protocol stack or DSL.
+
+Please do not treat it as production advice for regulated workloads.
